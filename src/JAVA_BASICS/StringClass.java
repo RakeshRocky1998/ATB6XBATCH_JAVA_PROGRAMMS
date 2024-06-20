@@ -11,8 +11,7 @@ public class StringClass {
 
         System.out.println(a+b);
         System.out.println(a.length());
-        System.out.println(a.length());
-        System.out.println(a.length());
+
 
     }
 }
