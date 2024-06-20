@@ -6,6 +6,7 @@ public class String_1 {
     String a = "RRR";
     String b = "RRR";
     String c = "ZZZ";
+    String d = "rrr";
 
         System.out.println(a.equals(b));
         System.out.println(a == b);
@@ -17,4 +18,8 @@ public class String_1 {
 
         System.out.println("   ");
 
-}}
+        System.out.println(a.equals(d));
+        System.out.println(a == d);
+
+
+    }}
