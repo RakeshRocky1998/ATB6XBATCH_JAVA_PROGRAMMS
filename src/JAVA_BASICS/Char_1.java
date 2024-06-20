@@ -9,5 +9,10 @@ public class Char_1 {
         System.out.println(a.contains("S"));
         System.out.println(a.contains("a"));
         System.out.println(a.contains("A"));
+        System.out.println(a.length());
+        System.out.println(a.chars());
+        System.out.println(a.toLowerCase());
+        System.out.println(a.toUpperCase());
+
     }
 }
