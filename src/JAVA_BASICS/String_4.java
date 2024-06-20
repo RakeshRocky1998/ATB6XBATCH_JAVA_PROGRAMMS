@@ -6,7 +6,10 @@ public class String_4 {
         String b = "Rakesh ";
         System.out.println(a.equals(b));
         System.out.println(a==b);
+
         System.out.println(a.charAt(0));
+        char e = a.charAt(1);
+        System.out.println(e);
         String  c = new String("Rakesh");
         String  d = new String("Rakesh ");
         System.out.println(c.equals(d));
