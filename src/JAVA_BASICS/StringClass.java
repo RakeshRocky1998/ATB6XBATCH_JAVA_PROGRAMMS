@@ -10,6 +10,7 @@ public class StringClass {
         String b = new String("Rrrrrrr");
 
         System.out.println(a+b);
+        System.out.println(a.length());
 
 
     }
