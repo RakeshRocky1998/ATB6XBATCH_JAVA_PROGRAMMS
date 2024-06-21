@@ -1,6 +1,6 @@
 package JAVA_BASICS;
 
-public class String_5 {
+public class LAB_8_String_5 {
     public static void main(String[] args) {
         String a = "Rakhi";
         a.concat(" Shaiva");

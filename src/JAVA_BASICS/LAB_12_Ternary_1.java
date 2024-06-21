@@ -1,6 +1,6 @@
 package JAVA_BASICS;
 
-public class Ternary_1 {
+public class LAB_12_Ternary_1 {
     public static void main(String[] args) {
 
        double c =  Math.cbrt ( (Math.pow(10,2)+  Math.pow(7,2)) - Math.abs(11));

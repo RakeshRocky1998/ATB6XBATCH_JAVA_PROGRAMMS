@@ -1,6 +1,6 @@
 package JAVA_BASICS;
 
-public class Hello {
+public class LAB_0_Hello {
     public static void main(String[] args) {
         System.out.println("hi");
         System.out.println(2+1);

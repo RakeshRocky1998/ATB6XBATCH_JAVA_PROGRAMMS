@@ -1,6 +1,6 @@
 package JAVA_BASICS;
 
-public class Ternary {
+public class LAB_11_Ternary {
     public static void main(String[] args) {
         boolean a = 10<20 ? 10 >20 : 10<20;
         System.out.println(a);

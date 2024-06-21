@@ -1,8 +1,6 @@
 package JAVA_BASICS;
 
-import org.w3c.dom.ls.LSOutput;
-
-public class StringClass {
+public class LAB_10_String_7 {
     public static void main(String[] args) {
 
 

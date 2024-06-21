@@ -1,6 +1,6 @@
 package JAVA_BASICS;
 
-public class Char_1 {
+public class LAB_13_Char_1 {
     public static void main(String[] args) {
         String a = "RAKESH";
         char b = a.charAt(1);

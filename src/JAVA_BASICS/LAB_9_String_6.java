@@ -1,6 +1,6 @@
 package JAVA_BASICS;
 
-public class String_6 {
+public class LAB_9_String_6 {
     public static void main(String[] args) {
         String  a = "Virat Kohili";
         String  b = a.toLowerCase();

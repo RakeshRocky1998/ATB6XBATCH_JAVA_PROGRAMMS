@@ -1,6 +1,6 @@
 package JAVA_BASICS;
 
-public class String_1 {
+public class LAB_4_String_1 {
     public static void main(String[] args) {
 
    // String a = "RRR";String b = "RRR";String c = "ZZZ";String d = "rrr";
