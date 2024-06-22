@@ -19,6 +19,7 @@ public class LAB_23_TRIANGLE_FINDING {
             System.out.println("ISOCELESE TRIANGLE");
         }else {
             System.out.println("SCALENE TRIANGLE");
-        }
+
+        }sc.close();
     }
 }
