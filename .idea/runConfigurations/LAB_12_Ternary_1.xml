@@ -6,7 +6,7 @@
     <module name="ATB6XBATCH_Rest_Build_Pattern" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="JAVA_BASICS.*" />
+        <option name="PATTERN" value="JAVA_BASICS._1_T0_25.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
