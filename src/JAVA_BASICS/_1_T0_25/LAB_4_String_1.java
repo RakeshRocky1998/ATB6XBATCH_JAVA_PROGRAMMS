@@ -1,0 +1,19 @@
+package JAVA_BASICS._1_T0_25;
+
+public class LAB_4_String_1 {
+    public static void main(String[] args) {
+
+   // String a = "RRR";String b = "RRR";String c = "ZZZ";String d = "rrr";
+    String a = "RRR", b = "RRR", c = "ZZZ", d = "rrr";
+
+        System.out.println(a.equals(b));
+        System.out.println(a == b);
+        System.out.println("   ");
+        System.out.println(a.equals(c));
+        System.out.println(a == c);
+        System.out.println("   ");
+        System.out.println(a.equals(d));
+        System.out.println(a == d);
+
+
+    }}
