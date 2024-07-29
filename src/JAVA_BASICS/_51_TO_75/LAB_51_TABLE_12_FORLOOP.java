@@ -1,4 +1,4 @@
-package JAVA_BASICS._51_75;
+package JAVA_BASICS._51_TO_75;
 
 public class LAB_51_TABLE_12_FORLOOP {
     public static void main(String[] args) {

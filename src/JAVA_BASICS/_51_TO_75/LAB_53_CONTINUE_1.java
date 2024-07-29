@@ -1,4 +1,4 @@
-package JAVA_BASICS._51_75;
+package JAVA_BASICS._51_TO_75;
 
 public class  LAB_53_CONTINUE_1 {
     public static void main(String[] args) {

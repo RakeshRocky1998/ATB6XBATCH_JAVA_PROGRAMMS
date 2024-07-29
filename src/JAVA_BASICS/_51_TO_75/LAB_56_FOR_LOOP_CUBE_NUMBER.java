@@ -1,4 +1,4 @@
-package JAVA_BASICS._51_75;
+package JAVA_BASICS._51_TO_75;
 
 public class LAB_56_FOR_LOOP_CUBE_NUMBER {
     public static void main(String[] args) {

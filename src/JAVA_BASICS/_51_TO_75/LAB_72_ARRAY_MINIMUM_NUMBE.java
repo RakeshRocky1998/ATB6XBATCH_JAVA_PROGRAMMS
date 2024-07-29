@@ -1,4 +1,4 @@
-package JAVA_BASICS._51_75;
+package JAVA_BASICS._51_TO_75;
 
 public class LAB_72_ARRAY_MINIMUM_NUMBE {
     public static void main(String[] args) {
